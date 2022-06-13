@@ -12,11 +12,10 @@ Sleeping habit               |Timer
 :-------------------------:|:-------------------------:
 ![Home Sscreen](https://github.com/sithukaungset/SmartHealth/blob/master/Screenshot%20from%202022-05-15%2023-46-15.png) | ![Entry Info](https://github.com/sithukaungset/SmartHealth/blob/master/Screenshot%20from%202022-05-15%2023-46-05.png)
 
-3D AR object with iphone camera                |3D AR object with iphone camera                
+ASMR videos              |Doctor Instruction                
 :-------------------------:|:-------------------------:
 ![Home Sscreen](https://github.com/sithukaungset/SmartHealth/blob/master/Screenshot%20from%202022-05-15%2023-47-00.png) | ![Entry Info](https://github.com/sithukaungset/SmartHealth/blob/master/Screenshot%20from%202022-05-15%2023-47-10.png)
 
-
-3D AR object with iphone camera                |3D AR object with iphone camera                
+Calendar                |Sleeping Schedule                
 :-------------------------:|:-------------------------:
 ![Home Sscreen](https://github.com/sithukaungset/SmartHealth/blob/master/Screenshot%20from%202022-05-15%2023-46-47.png) | ![Entry Info](https://github.com/sithukaungset/SmartHealth/blob/master/Screenshot%20from%202022-05-15%2023-46-37.png)
