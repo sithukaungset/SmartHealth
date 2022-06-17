@@ -2,8 +2,9 @@
 An android application made for smart health project
 
 ## Built for people who cannot sleep very well at night
+Fot people have difficulity in sleeping or people who are dealing with insomnia, we can help cure your all problems relating with sleeping habits.
 
-## ScreenShots
+## Main Functions of Application
 Main Page                   |Sleep scores            
 :-------------------------:|:-------------------------:
 ![Entry Steps](https://github.com/sithukaungset/SmartHealth/blob/master/Screenshot%20from%202022-05-15%2023-45-38.png) | ![App Intro](https://github.com/sithukaungset/SmartHealth/blob/master/Screenshot%20from%202022-05-15%2023-45-46.png)
